@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color:rgb(63, 63, 63);
+    background-color:rgb(34, 34, 34);
 
     font-family:'Lato', Helvetica, Arial;
     font-size:15px;
@@ -33,7 +33,7 @@ header {
     right:0;
     height:60px;
 
-    background-color:#272727;
+    background-color:#131313;
 
     display:flex; /* none; */
     justify-content:space-between; /* flex-end; */
